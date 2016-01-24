@@ -1,0 +1,1 @@
+This project deals with developing a spy robot that can be controlled using an android device over WiFi and also supports real time video streaming.
